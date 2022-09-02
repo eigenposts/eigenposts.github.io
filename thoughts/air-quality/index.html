@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+<title>Buy an Air Filter</title>
+<meta name="description" 
+      content=""
+>
+
+  
+
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link
+  rel="alternate"
+  type="application/rss+xml"
+  href="https://eigenposts.github.io/index.xml"
+  title="Eigenposts"
+/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Buy an Air Filter"/>
+<meta name="twitter:description" content="Filtering out indoor air pollution is the highest leverage one-time health intervention"/>
+
+
+
+<link rel="stylesheet" href="https://eigenposts.github.io/fontawesome/css/all.min.css" />
+
+
+
+
+<link
+  crossorigin="anonymous"
+  href="/css/styles.min.css"
+  integrity=""
+  rel="preload stylesheet"
+  as="style"
+/>
+
+
+
+
+<link
+  id="dark-mode-theme"
+  crossorigin="anonymous"
+  href="/css/dark.min.css"
+  integrity=""
+  rel="preload stylesheet"
+  as="style"
+/>
+
+
+<script>
+  var darkTheme = document.getElementById('dark-mode-theme')
+  var storedTheme = localStorage.getItem('dark-mode-storage')
+
+  if (storedTheme === 'dark') {
+    darkTheme.disabled = false
+  } else if (storedTheme === 'light') {
+    darkTheme.disabled = true
+  }
+</script>
+
+
+<script defer crossorigin="anonymous" src="/js/theme.js" integrity=""></script>
+
+
+<script defer crossorigin="anonymous" src="/js/instantpage.min.js" integrity=""></script><meta name="generator" content="Hugo 0.101.0" />
+  </head>
+  <body>
+    
+  
+
+
+
+
+  <header>
+    <nav class="navbar">
+  <div class="nav">
+    
+      <a href="https://eigenposts.github.io/" class="nav-logo">
+        <img
+          src="https://eigenposts.github.io/images/profile.png"
+          width="50"
+          height="50"
+          alt="Logo"
+          style="border-radius: 25px;"
+        />
+      </a>
+    
+
+    <ul class="nav-links">
+      
+        
+          <li>
+            <a href="/about/" id="About"><b>About</b></a>
+          </li>
+        
+      
+        
+          <li>
+            <a href="/thoughts" id="Thoughts"><b>Thoughts</b></a>
+          </li>
+        
+      
+        
+          <li>
+            <a href="/archive" id="Archive"><b>Archive</b></a>
+          </li>
+        
+      
+        
+          <li>
+            <a href="/search" id="Search"
+              ><em class="fas fa-search fa-lg"></em
+            ></a>
+          </li>
+          
+      
+    </ul>
+  </div>
+</nav>
+
+    <div class="intro-header">
+      <div class="container">
+        <div class="thoughts-heading">
+          
+            <h1>
+              Buy an Air Filter
+            </h1>
+          
+          
+        </div>
+      </div>
+    </div>
+  </header>
+  
+
+    
+  <div class="container" role="main">
+    <article class="article" class="blog-post">
+      
+  <p><em>Filtering out indoor air pollution is the highest leverage one-time health intervention</em></p>
+<p>Credit for doing good research on air quality and blogging about it goes to <a href="https://dynomight.net/air/">Dynomight</a>, I just want to boost their ideas. You should read the original post, but a brief summary of the problem it presents is: when you breathe in tiny particles, they make you more likely to get cardiovascular disease, diabetes, and other things you don&rsquo;t want. Dynomight looks at several countries, and if you&rsquo;re in India or China, you really, really need to get an air filter, because ambient air pollution is the single most impactful factor they found for increasing your lifespan. But I&rsquo;m in the US - am I OK? Sort of - cities in the US are less polluted than cities in India and China, but Dynomight still finds that if I&rsquo;m not on drugs or drinking, air pollution is second only to high BMI as a health risk (as measured by disability-adjusted life-years per year).</p>
+<p>Fortunately, PM2.5 sensors are pretty cheap, so I got one on Amazon and took some measurements. I initially got very bad news: the <em>ambient indoor</em> PM2.5 readings were on par with some of the world&rsquo;s most polluted cities! Fortunately, a friend pointed out that this was probably a mistake, and I realized that I had misread the sensor&rsquo;s spec. I fixed the problem and found that the indoor air quality in my apartment was pretty good! But Dynomight finds a pretty consistent linear relationship between DALY (disability-adjusted life-year) deficit and air pollution even at low levels, so I bought an air filter. As Dynomight points out, this is a ridiculously high-leverage intervention: it&rsquo;s pretty much guaranteed to improve air quality, and it sure looks like that will extend your life. By how much? My apartment had a baseline level of 8 ug/m^3. Dynomight gives two useful ways to measure effect of PM2.5 exposure:</p>
+<ul>
+<li>You lose 1 additional hour of DALY per hour exposed to PM2.5 levels of 2500 ug/m^3</li>
+<li>You lose 1 DALY over your lifetime if your average PM2.5 exposure is 33.3 ug/m^3.</li>
+</ul>
+<p>Let&rsquo;s say I spend around 16 hours a day in my apartment (this, sadly, is probably an underestimate). Over the course of a year, I expect to lose 16 * 365 * 8 / 2500 = 18 life-hours as a result of this exposure level. Over my lifetime, this means I can hope to lose something like a month and a half off my lifespan due to indoor air pollution, assuming I never move. Or I can buy this back for less than $100. This is why the air filter is so ridiculously worth the expense. I got the IKEA Fornuftig filter, which is extraordinarily quiet on its lowest setting and reduced the PM2.5 count to zero on my sensor. Nice!</p>
+<h2 id="cooking">Cooking</h2>
+<p>Unfortunately, that wasn&rsquo;t all I learned from my sensor. See, I thought it would be pretty slick to get it to to a live plot of the raw particle counts. So I set it running, did some work, and made dinner.</p>
+<p><img src="/thoughts/img/pm2.5-plot.png" alt="PM2.5 levels as I made dinner"></p>
+<p style="text-align: center; margin-top: -2vh;"><i>Ah, shit</i></p>
+<p>In order, here is what happens in the graph: the relatively small bump is me as I start cooking. The huge spike comes from me opening the door to my office. Then I turned my filter all the way up and it starts to decay, but I get curious and bring the sensor into the kitchen, where the particle count achieves its maximum value. I then bring the sensor back to the office and close the door. Please note that the y-axis here is RAW COUNTS, NOT ug/m^3, so the graph isn&rsquo;t as bad as it looks. The value in ug/m^3 in the kitchen was around 500 though, so still quite bad, and it took 3 hours to come down to normal. I estimate that cooking dinner cost me something like 20 life-minutes (from pollution - it would be weird, though not inaccurate, to add the time I spent cooking to this). I should note here that I was frying tofu, which produces more smoke than most cooking, but this is potentially very significant! Cooking dinner was equivalent to several days of ambient indoor air pollution. If I cooked like this every night, I would lose 5 life-days a year purely from the particulate matter.</p>
+<p>This is interesting because it suggests that indoor air pollution follows a Pareto distribution - in this case, before the filter, 81% of the particles I inhaled each day came from 12.5% of the time (the three hours following whenever I start to cook). Malcom Gladwell has a good piece somewhere on Pareto problems (he calls them &ldquo;long-tail problems&rdquo;), where he suggests that any time you see a Pareto problem, you&rsquo;re lucky, because you can basically concentrate all of your efforts in one place and get significant results for (hopefully) a fraction of what solving the entire problem would cost you. The obvious solution to generating too much PM while cooking is to cook outside as much as possible, perhaps wearing a mask when you have to stand right over the grill. Failing that, I ran a <em>very</em> informal experiment with my microwave fume hood (mounted right above the stovetop). Dynomight helpfully informs us that Kang et. al. tried the fume hood on its own and found an 86% reduction in peak PM2.5! I observed similar effects: when I cooked again the next night, I used the fume hood and particle count was down &gt;90% (although I was cooking something different and less smoky, so there&rsquo;s a confounding variable here).</p>
+<p><strong>Final thoughts</strong></p>
+<ul>
+<li>Unless you have excellent reason to believe that your indoor air isn&rsquo;t polluted, a PM2.5 sensor and air filter are <em>ridiculously</em> well-worth the investment. A filter is probably the most effective one-off intervention you can perform to improve your healthspan.</li>
+<li>Regardless of whether you get a filter, you can improve your health significantly by using the fume hood above your stove while cooking, if you have one.</li>
+</ul>
+
+
+
+      
+
+      
+    </article>
+    
+    
+      
+
+    
+  </div>
+
+    <footer>
+  
+
+<div class="social-icons">
+  
+
+  
+</div>
+
+
+  
+  <div class="container">
+    <p class="credits copyright">
+      <a href="https://eigenposts.github.io/about">Sam</a>
+      &nbsp;&copy;
+      2022
+      
+        &nbsp;/&nbsp;
+        <a href="https://eigenposts.github.io/">Eigenposts</a>
+      
+      &nbsp;&ndash;&nbsp;
+      <em class="fas fa-moon" id="dark-mode-toggle"></em>
+    </p>
+
+    
+  </div>
+</footer>
+
+  </body>
+</html>
