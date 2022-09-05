@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://eigenposts.github.io/thoughts/desire/</loc>
-    <lastmod>2022-08-28T11:40:45-04:00</lastmod>
+    <loc>https://eigenposts.github.io/thoughts/arrested-development/</loc>
+    <lastmod>2022-09-05T13:03:26-04:00</lastmod>
   </url><url>
     <loc>https://eigenposts.github.io/</loc>
-    <lastmod>2022-08-28T11:40:45-04:00</lastmod>
+    <lastmod>2022-09-05T13:03:26-04:00</lastmod>
   </url><url>
     <loc>https://eigenposts.github.io/thoughts/</loc>
+    <lastmod>2022-09-05T13:03:26-04:00</lastmod>
+  </url><url>
+    <loc>https://eigenposts.github.io/thoughts/desire/</loc>
     <lastmod>2022-08-28T11:40:45-04:00</lastmod>
   </url><url>
     <loc>https://eigenposts.github.io/thoughts/air-quality/</loc>
