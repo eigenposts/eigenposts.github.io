@@ -5,6 +5,16 @@
         
             {
                 "id": 0,
+                "href": "https://eigenposts.github.io/thoughts/pride-in-work/",
+                "title": "Pride in Work",
+                "section": "thoughts",
+                "date" : "2022.11.19",
+                "body": "Or: how to finish your thesis.\nI recently learned that my thesis, as written, does not have enough supporting evidence - something I had suspected months ago but only confirmed in the last week. Fixing this means I need to perform a somewhat time-intensive experiment, which will take months, delay my graduation by a full semester, and require me to spend over a thousand dollars on tuition for the privelege of further bolstering my university\u0026rsquo;s publication record. I\u0026rsquo;m writing this essay because I\u0026rsquo;ve found that I am unexpectedly delighted with this outcome.\nAs an undergraduate engineering student, the quality of my work didn\u0026rsquo;t matter. People were mostly concerned with their grades, and grades were usually determined by very legible metrics. If the code passes these test cases, you get this score; if your robot completes this benchmark, it will receive this many points. Almost all of these metrics were purely objective and known ahead of time. There are advantages to this system: it holds everyone to the same standard, and you generally know what your grade will be ahead of time, so you can allocate time efficiently. It also makes administering large classes easy with a small staff, because grading can often be significantly automated. However, the fact that a piece of code works and runs in a certain amount of time does not automatically make that code good.\nAs a researcher (which is how I have spent the majority of my professional life), the quality of my work mattered very little most of the time. Research code generally isn\u0026rsquo;t written for the long-term. The point of research code is to produce tables and figures for a paper or maybe a demo. Sometimes you\u0026rsquo;re making something that needs to be a little more consistent, but this is less common. Don\u0026rsquo;t get me wrong: the actual products you make in the research process need to be high-quality, it\u0026rsquo;s just that the actual products are usually papers or presentations, not technical work. I would guess that well under 10% of my research time was spent on work that needed to be high-quality.\nIt is deeply disheartening for me to have my work accepted and rubber-stamped when I know that it\u0026rsquo;s actually not very good. When you try your best and fail, it can be discouraging, but it also motivates you to improve. When you phone it in and succeed, with no indication that anyone would expect you to be capable of more than this, or try harder than this, everything you do starts to feel pointless.\nBut on my thesis, someone cares whether the work is good or bad, for some opaque definition of \u0026ldquo;good\u0026rdquo; and \u0026ldquo;bad\u0026rdquo; that depends, at least in part, on the fact that I individually could do better. And I\u0026rsquo;ve found that, somewhat unexpectedly, I care too. Yes, my degree is ultimately just a piece of paper I\u0026rsquo;m hoping will give me an edge in beauracracies that can\u0026rsquo;t find better ways to assess competence, but I now realize that\u0026rsquo;s not all there is to it.\nI used to think that the best way to deal with mind-numbing beauracracy is to minimize contact - and I do still think that\u0026rsquo;s sometimes true. Sometimes it\u0026rsquo;s better to lie, or do the absolute minimum to check a box, or break the rules. But cynicism should also be balanced by clear, affirmative intentions. It\u0026rsquo;s easy to point out when things are impractical, imperfect, or just plain bad ideas. I\u0026rsquo;ve done it before, and I\u0026rsquo;ll do it again; it\u0026rsquo;s a useful skill that can save you a lot of time and pain. But people also need things to believe in and orient themselves towards; for me, the quality of the things I make is one of those ideals. My thesis will be done in a couple of months, and it will be a work that I can be proud of.\nn.b.: there are obvious consequences of this way of thinking for how schools, and particularly higher education, should be run. I\u0026rsquo;ll probably have a post on this later, as it\u0026rsquo;s a complicated subject and rationalist bloggers are supposed to have strong opinions about it.\n"
+            }
+    
+        ,
+            {
+                "id": 1,
                 "href": "https://eigenposts.github.io/thoughts/choline-supplementation/",
                 "title": "Choline Supplementation",
                 "section": "thoughts",
@@ -14,7 +24,7 @@
     
         ,
             {
-                "id": 1,
+                "id": 2,
                 "href": "https://eigenposts.github.io/thoughts/internet-survival-guide/",
                 "title": "Internet Survival Guide",
                 "section": "thoughts",
@@ -24,7 +34,7 @@
     
         ,
             {
-                "id": 2,
+                "id": 3,
                 "href": "https://eigenposts.github.io/thoughts/the-direct-path/",
                 "title": "The Direct Path: My User Experience",
                 "section": "thoughts",
@@ -34,7 +44,7 @@
     
         ,
             {
-                "id": 3,
+                "id": 4,
                 "href": "https://eigenposts.github.io/thoughts/selfish-individualism/",
                 "title": "Why You Should be a Selfish Individualist",
                 "section": "thoughts",
@@ -44,7 +54,7 @@
     
         ,
             {
-                "id": 4,
+                "id": 5,
                 "href": "https://eigenposts.github.io/thoughts/you-are-nature/",
                 "title": "You Are Nature",
                 "section": "thoughts",
@@ -54,7 +64,7 @@
     
         ,
             {
-                "id": 5,
+                "id": 6,
                 "href": "https://eigenposts.github.io/thoughts/arrested-development/",
                 "title": "Arrested Development",
                 "section": "thoughts",
@@ -64,7 +74,7 @@
     
         ,
             {
-                "id": 6,
+                "id": 7,
                 "href": "https://eigenposts.github.io/thoughts/desire/",
                 "title": "Desire",
                 "section": "thoughts",
@@ -74,7 +84,7 @@
     
         ,
             {
-                "id": 7,
+                "id": 8,
                 "href": "https://eigenposts.github.io/thoughts/air-quality/",
                 "title": "Buy an Air Filter",
                 "section": "thoughts",
@@ -84,7 +94,7 @@
     
         ,
             {
-                "id": 8,
+                "id": 9,
                 "href": "https://eigenposts.github.io/thoughts/responsiveness-authenticity/",
                 "title": "Responsiveness and Authenticity",
                 "section": "thoughts",
@@ -94,7 +104,7 @@
     
         ,
             {
-                "id": 9,
+                "id": 10,
                 "href": "https://eigenposts.github.io/thoughts/contra-hoel-vegetarianism/",
                 "title": "Contra Erik Hoel on Vegetarianism",
                 "section": "thoughts",
@@ -104,7 +114,7 @@
     
         ,
             {
-                "id": 10,
+                "id": 11,
                 "href": "https://eigenposts.github.io/thoughts/if-you-saw-a-ghost/",
                 "title": "If You Saw a Ghost",
                 "section": "thoughts",
@@ -114,7 +124,7 @@
     
         ,
             {
-                "id": 11,
+                "id": 12,
                 "href": "https://eigenposts.github.io/thoughts/beginners-mind/",
                 "title": "Reinventing Beginner's Mind",
                 "section": "thoughts",
@@ -124,7 +134,7 @@
     
         ,
             {
-                "id": 12,
+                "id": 13,
                 "href": "https://eigenposts.github.io/about/",
                 "title": "About",
                 "section": "",
@@ -134,7 +144,7 @@
     
         ,
             {
-                "id": 13,
+                "id": 14,
                 "href": "https://eigenposts.github.io/thoughts/aristotle-anime/",
                 "title": "Aristotle, Anime, and the Meaning of Friendship",
                 "section": "thoughts",
