@@ -5,6 +5,16 @@
         
             {
                 "id": 0,
+                "href": "https://eigenposts.github.io/thoughts/nonstick-pans/",
+                "title": "Nonstick Pans",
+                "section": "thoughts",
+                "date" : "2022.12.13",
+                "body": "Ideally, you would want to cook with things that won\u0026rsquo;t give you cancer or make you sick. How are we doing on that?\nNonstick Pans There are, as far as I can tell, only two ways to make pans that don\u0026rsquo;t stick to food, and both are coatings. The first, and most common, kind of coating is called PTFE. The most common brand of nonstick PTFE coating is Teflon, but most nonstick pans are made with this stuff. If your pan uses \u0026ldquo;Quantanium\u0026rdquo; (Cuisinart) or \u0026ldquo;Titanium\u0026rdquo; (T-fal) nonstick, even though they never actually say they\u0026rsquo;re using PTFE, the actual coating is PTFE. I emphasize this because I thought I\u0026rsquo;d been careful not to get PTFE-coated pans before, and then realized that I\u0026rsquo;d fallen for the insanely deceptive marketing around this space. Both of the companies I mentioned try really hard not to say what\u0026rsquo;s actually in their nonstick coatings.\nThis is sort of weird, because T-fal seems very confident that PTFE coatings are safe: they claim that their PTFE-based coating is \u0026ldquo;non-toxic even when ingested\u0026rdquo; and \u0026ldquo;certified to be harmless by public health bodies in Europe and in the US,\u0026rdquo; though they seem to be very coy about what public health bodies they\u0026rsquo;re talking about. I, and I cannot emphasize this enough, have zero expertise that qualifies me in any way to give medical advice, but I\u0026rsquo;ve decided to avoid PTFE for the time being anyway.\nPTFE PTFE nonstick coatings have been around since the 40s, when Teflon was introduced by DuPont. PTFE was manufactured using a chemical called PFOA (Perfluorooctanoic Acid), which falls under a family of chemicals called PFAS (Perfluoroalkyl and polyfluoroalkyl substances).\nDuPont discovered that PFAS were toxic in the 1960s, and that PFOA specifically was toxic in the 1970s. However, when the Toxic Substances Control Act was passed in 1976 to regulate the manufacture and sale of chemicals, PFOA was grandfathered in without being reviewed, despite the fact that 3M had recently discovered that PFAS bioaccumulate in humans. By the 90s, it was pretty clear that PFOA was carcinogenic. In the early and mid 2000s, various companies voluntarily started phasing out PFOA and replacing it with other PFAS, notably one called GenX. The main strength of GenX over PFOA doesn\u0026rsquo;t seem to be that anyone has proven its safety - it\u0026rsquo;s just that it hasn\u0026rsquo;t been studied enough to prove that it\u0026rsquo;s dangerous.\nBut things don\u0026rsquo;t look good for PTFE cookware from my perspective: Sajid et. al. (2017) point out that \u0026ldquo;at normal cooking temperatures, PTFE-coated cookware releases various gases and chemicals that present mild to severe toxicity,\u0026rdquo; and you only have to look at a PTFE-coated pan that\u0026rsquo;s seen a few years of use (even careful use) to see that some of the coating has chipped off, presumably into your food. On a completely unscientific and personal note, I don\u0026rsquo;t like it when companies try to trick me into buying their products, especially when they do that by naming one material (PTFE) after another material (titanium). I honestly can\u0026rsquo;t believe this is legal. So, what are the alternatives?\nStainless Steel Stainless steel is a pretty compelling alternative! It\u0026rsquo;s been around for a long time, and unlike aluminum, copper, and carbon steel, it\u0026rsquo;s nonreactive with food, so you won\u0026rsquo;t end up with metal ions in your tomato sauce. It\u0026rsquo;s also self-healing in that the nonreactive coating is an oxide layer that will re-oxidize if the material gets scratched. The biggest problem with it is that it\u0026rsquo;s not actually nonstick - it will stick to delicate stuff like eggs, especially in high temperatures.\nCeramic Coatings Ceramic coatings are usually made of silicon dioxide, which is just standard glass. They are safe up to higher temperatures than PTFE (ceramic coatings are safe up to 800F, so there\u0026rsquo;s basically zero risk there) and are also highly inert. I haven\u0026rsquo;t found anything suggesting they\u0026rsquo;re not safe, but that seems to be because they\u0026rsquo;re not very well-studied. That said, they do pass the heuristic check of being made of a pretty well-understood material. The one problem with ceramic coatings is that they don\u0026rsquo;t seem to be as durable as PTFE - it\u0026rsquo;s important to use only wood or plastic utensils with them, and you should hand-wash them to avoid wear and tear from the dishwasher. Even with these precautions, you\u0026rsquo;ll be replacing ceramic-coated pans every couple of years - and you need to be careful that the core material (the metal under the coating) isn\u0026rsquo;t going to be too harmful if you cook with a chipped pan for a couple of months.\nMy Take I like to cook, but I\u0026rsquo;m not super passionate about it. I want stuff that will work well and not be annoying, and also hopefully be reasonably cost-effective. For me, it seems like the best way to make that happen is to use mostly stainless steel cookware, with a couple of ceramic coated pans for stuff like eggs. Unfortunately, the least durable parts of this system will probably see the most use, but options for true nonstick seem to be limited to one that might give me cancer and/or endocrine issues and one that probably won\u0026rsquo;t but isn\u0026rsquo;t durable. So I\u0026rsquo;m doing the non-cancer one.\nnb: other materials. There are a lot of other materials not mentioned here that might be good for people with different priorities than me, including copper, aluminum, carbon steel, and cast iron. All of these materials will react with acidic foods and leech metal ions into them, which makes them ineligible for consideration for me because that\u0026rsquo;s not something I want to think about. As with everything on this blog, you should do your own research and find something that works for you!!\n"
+            }
+    
+        ,
+            {
+                "id": 1,
                 "href": "https://eigenposts.github.io/thoughts/the-education-one/",
                 "title": "The Education One",
                 "section": "thoughts",
@@ -14,7 +24,7 @@
     
         ,
             {
-                "id": 1,
+                "id": 2,
                 "href": "https://eigenposts.github.io/thoughts/pride-in-work/",
                 "title": "Pride in Work",
                 "section": "thoughts",
@@ -24,7 +34,7 @@
     
         ,
             {
-                "id": 2,
+                "id": 3,
                 "href": "https://eigenposts.github.io/thoughts/choline-supplementation/",
                 "title": "Choline Supplementation",
                 "section": "thoughts",
@@ -34,7 +44,7 @@
     
         ,
             {
-                "id": 3,
+                "id": 4,
                 "href": "https://eigenposts.github.io/thoughts/internet-survival-guide/",
                 "title": "Internet Survival Guide",
                 "section": "thoughts",
@@ -44,7 +54,7 @@
     
         ,
             {
-                "id": 4,
+                "id": 5,
                 "href": "https://eigenposts.github.io/thoughts/the-direct-path/",
                 "title": "The Direct Path: My User Experience",
                 "section": "thoughts",
@@ -54,7 +64,7 @@
     
         ,
             {
-                "id": 5,
+                "id": 6,
                 "href": "https://eigenposts.github.io/thoughts/selfish-individualism/",
                 "title": "Why You Should be a Selfish Individualist",
                 "section": "thoughts",
@@ -64,7 +74,7 @@
     
         ,
             {
-                "id": 6,
+                "id": 7,
                 "href": "https://eigenposts.github.io/thoughts/you-are-nature/",
                 "title": "You Are Nature",
                 "section": "thoughts",
@@ -74,7 +84,7 @@
     
         ,
             {
-                "id": 7,
+                "id": 8,
                 "href": "https://eigenposts.github.io/thoughts/arrested-development/",
                 "title": "Arrested Development",
                 "section": "thoughts",
@@ -84,7 +94,7 @@
     
         ,
             {
-                "id": 8,
+                "id": 9,
                 "href": "https://eigenposts.github.io/thoughts/desire/",
                 "title": "Desire",
                 "section": "thoughts",
@@ -94,7 +104,7 @@
     
         ,
             {
-                "id": 9,
+                "id": 10,
                 "href": "https://eigenposts.github.io/thoughts/air-quality/",
                 "title": "Buy an Air Filter",
                 "section": "thoughts",
@@ -104,7 +114,7 @@
     
         ,
             {
-                "id": 10,
+                "id": 11,
                 "href": "https://eigenposts.github.io/thoughts/responsiveness-authenticity/",
                 "title": "Responsiveness and Authenticity",
                 "section": "thoughts",
@@ -114,7 +124,7 @@
     
         ,
             {
-                "id": 11,
+                "id": 12,
                 "href": "https://eigenposts.github.io/thoughts/contra-hoel-vegetarianism/",
                 "title": "Contra Erik Hoel on Vegetarianism",
                 "section": "thoughts",
@@ -124,7 +134,7 @@
     
         ,
             {
-                "id": 12,
+                "id": 13,
                 "href": "https://eigenposts.github.io/thoughts/if-you-saw-a-ghost/",
                 "title": "If You Saw a Ghost",
                 "section": "thoughts",
@@ -134,7 +144,7 @@
     
         ,
             {
-                "id": 13,
+                "id": 14,
                 "href": "https://eigenposts.github.io/thoughts/beginners-mind/",
                 "title": "Reinventing Beginner's Mind",
                 "section": "thoughts",
@@ -144,7 +154,7 @@
     
         ,
             {
-                "id": 14,
+                "id": 15,
                 "href": "https://eigenposts.github.io/about/",
                 "title": "About",
                 "section": "",
@@ -154,7 +164,7 @@
     
         ,
             {
-                "id": 15,
+                "id": 16,
                 "href": "https://eigenposts.github.io/thoughts/aristotle-anime/",
                 "title": "Aristotle, Anime, and the Meaning of Friendship",
                 "section": "thoughts",
