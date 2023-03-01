@@ -5,6 +5,16 @@
         
             {
                 "id": 0,
+                "href": "https://eigenposts.github.io/thoughts/georgism/",
+                "title": "Georgism",
+                "section": "thoughts",
+                "date" : "2023.02.28",
+                "body": "A brief introduction to Georgism\nIn 1930, John Meynard Keynes made two predictions about the present day in an essay called \u0026ldquo;Economic Possibilities For Our Grandchildren\u0026rdquo;. Productivity, he said, would have risen massively, leading to tremendous material wealth per capita. Keynes further anticipated that this would lead to a world where most people worked no more than a few hours a day and devoted the rest of their lives to art, poetry, and the like. Obviously, Keynes\u0026rsquo; second prediction was wrong - Americans work a couple hours a day less, on average, than they did in his time, but we\u0026rsquo;re nowhere close to the 3-4 hours a day he envisioned (his exact prediction was 15 hours a week). In fact, I suspect that most of the decrease is accounted for by the fact that Keynes made his prediction before women entered the workplace (having two wage-earners in a marriage/couple means each individual should have to work half as much, so you\u0026rsquo;d expect a much larger decrease than we actually got). But Keynes\u0026rsquo; first prediction was also wrong: though he didn\u0026rsquo;t assign any hard numbers, he suggests an 8x productivity improvement as plausible. Between 1930 and 2019, the US population roughly tripled. But the US inflation-adjusted GDP grew by more than 225x, meaning that Keynes dramatically underestimated productivity growth (as measured by GDP per capita).\nKeynes was widely acknowledged to be brilliant, but the fact that these closely related predictions were both dramatically wrong in different directions indicates that there was something wrong with his world model. But there was another economist who, 50 years before Keynes\u0026rsquo; predictions, wrote a book that correctly predicts and explains why software engineers living in San Francisco making $100,000 a year are living on the poverty line. His name was Henry George, and I did not read his book.\nInstead, I read Lars Doucet\u0026rsquo;s excellent ACX review, which was fantastic if a little long, so I\u0026rsquo;ve condensed it down here. Happy reading!\nComplaints There are a bunch of things going wrong in society for no obvious reason. For example:\nRent is high relative to real income and getting higher Important inputs to societal growth (education, healthcare, childcare) are getting more expensive faster than average hourly income is growing George claims that that these problems are actually endogenous features of capitalist society. Here\u0026rsquo;s a particularly prescient quote from his book, Progress and Poverty:\nIf there is less deep poverty in San Fran Francisco than in New York, is it not because San Francisco is yet behind New York in all that both cities are striving for? When San Francisco reaches the point where New York now is, who can doubt that there will also be ragged and barefooted children on her streets?\nTerminology George introduces a number of terms that he uses in very specific ways. Among them:\nWealth - George claims that wealth can only take the form of concrete goods which have value and require labor to produce. Money, therefore, is not wealth so much as a claim on wealth (cf: Debt - The First 5000 Years). Stocks, bonds, and slaves are likewise not wealth. Essentially, wealth is accumulated real value. Printing more money or stocks, or enslaving people, doesn\u0026rsquo;t create value and therefore isn\u0026rsquo;t wealth. George would probably claim that an ebook is wealth, but the right to read an ebook isn\u0026rsquo;t. Capital is wealth intended to create more wealth. George suggests that a worker\u0026rsquo;s bread is not capital, because the worker would need to eat regardless of his employment status, but that his steel-toed boots are, because they are intended specifically to help him with his work. Land is anything \u0026ldquo;freely supplied by nature\u0026rdquo; and is the source of all wealth, but is not itself wealth. For example, the fish in the sea, orbital real estate, and the EM spectrum are all \u0026ldquo;land\u0026rdquo; Rent is the money you make by owning land Wages are the money you make by selling your labor Interest is the money you make by investing capital and realizing returns on your investment One more term, related to the Georgist concept of rent, is economic rent, which is any payment to an owner or factor of production in excess of the costs incurred in its creation. Since, in George\u0026rsquo;s view, land is \u0026ldquo;freely supplied by nature\u0026rdquo; and therefore costs nothing to create, all land rent is also economic rent.\nWhy Do Wages not Grow with GDP? Imagine 3 plots of land, which we\u0026rsquo;ll call A, B, and C. They have the following characteristics:\nPlot A is owned by me and I won\u0026rsquo;t let you work it if you don\u0026rsquo;t pay me. But it\u0026rsquo;s high-quality arable land and would let you produce $100 in value. Plot B is just as good as plot A (you can produce $100 by working it) and is also a common. Plot C is also a common, but it\u0026rsquo;s crappy land that would only yield $10. Clearly, you should choose to farm plot B. Or, to put it another way, I can\u0026rsquo;t afford to charge you for access to plot A. But if I find some way to stop you from using plot B, then I can charge up to $89 in rent on plot A! In other words, rent allows me to eat the margin of production between my land and the most productive/profitable alternative to its use (note: Lars\u0026rsquo; review says it\u0026rsquo;s the least productive alternative, but this doesn\u0026rsquo;t make sense to me). If both lot A and lot B are owned, there\u0026rsquo;s also no incentive for you to improve the soil in either lot and thereby increase its productivity, as your landlord will simply raise the rent to match the margin of production.\nWages don\u0026rsquo;t grow with GDP because of that thought experiment. Land is an input to all wealth production. If all land is owned, then the landowners can set rents high enough to effectively force subsistence wages, capturing most profit from improvements for themselves. If wages aren\u0026rsquo;t growing with GDP, this indicates that a large fraction of land is owned and it\u0026rsquo;s hard to find low-hanging fruit (\u0026ldquo;natural opportunity\u0026rdquo;) that someone isn\u0026rsquo;t already charging rent for.\nBut there are other reasons too! Landowners get more powerful as society grows, for two main reasons. First, a larger society experiences benefits from specialization and the margin of production (the values of the least valuable land that\u0026rsquo;s still worth using) goes down, so demand for land is increased. Second, developing technology brings out the latent value of land. For example, land rich with iron ore is worthless unless you have the technology to smelt iron and industries that demand it.\nLand Speculation When you expect something to rise in value, you buy and hold it. Since there\u0026rsquo;s a finite amount of land, holding it and not improving it can work in your favor. If you buy a vacant lot in the middle of a city and just hold onto it, you\u0026rsquo;re still forcing people who otherwise could have used the lot to go buy property somewhere else. These people, of course, are buying at the margin of production and therefore pushing it down. Since the amount of rent you can extract from your land is the value of the wealth someone else can get from it minus the margin of production, holding the land without developing it has increased its value.\nGeorge claims that (all?) economic boom/bust cycles are caused by land speculation. His reasoning is that land speculators, perhaps making imprudent investments/decisions, sometimes drive the margin of production so low that production is slowed or stopped. At this point, you get a bust until land prices come down or (more usually) technology improves enough that increased productivity allows labor and capital to produce returns. This explains why you sometimes see an abundance of labor and capital, but no generation of wealth.\nGeorge gives an example of the reign of Henry VIII, who seized common lands and gave them to aristocrats. Since the number of farm workers didn\u0026rsquo;t change and a ton of employers entered the market, traditional economics should lead you to expect wages to go up due to the increase in demand. Instead, they went down, because there were no productive alternatives to renting farmland.\nProposed Solution George proposes that land ownership should be taxed according to (and perhaps at) the land\u0026rsquo;s inherent value. He believes that everyone is entitled to the products of their labor, which often includes improvements on the land, but that no one is entitled to deny others the products of nature. George, therefore, is not averse to private property! He thinks that everyone is entitled to the products of/returns on their labor. Since labor is impossible without land, land ownership is really denying others the ability to labor and is therefore actually bad for creating private property.\nSo is \u0026ldquo;landlord\u0026rdquo; just not a job then? Aren\u0026rsquo;t apartments and high-density housing, like, a good thing? They are a good thing! Being a landlord is totally a job, and landlords\u0026rsquo; income reflects this: it is composed not only of the rent they collect on their ability to deny others access to natural resources, but also of the wages they earn maintaining their property and the interest they make on the capital they expended to create and improve their units! George objects only to the rent, which charges other people to access the community/area around the apartment building. This is value which the landlord didn\u0026rsquo;t produce and shouldn\u0026rsquo;t be able to collect on.\nLand Value Tax Land Value Tax (LVT) is not property tax! Property tax taxes both land and improvements to the land. LVT only taxes based on the \u0026ldquo;ground rent\u0026rdquo;, which is the value of the unimproved land. LVT captures the \u0026ldquo;leakage\u0026rdquo; from improvements to an area that a landlord would otherwise be able to freeload on. So, for example, the unimproved land in New York City is worth more than a patch of swamp somewhere. There are improvements you can make to land which become indistinguishable from land (example: improving the soil quality of farmland); George says we just have to accept that these improvements will be incorporated into the land value when computing the tax.\nGeorge thinks the LVT should be assessed at 100%, but modern Georgists tend to say something closer to 85%. This should decrease the cost of real estate, because land speculation becomes extremely unprofitable under an LVT, so some land previously held out of supply by speculators can be sold. Simultaneously, speculators exit the market on the demand side, so supply of available land rises and demand for land falls (except in places where LVT results in an economic boom).\nGeorge advocates using the LVT to eliminate other taxes and possibly establish a UBI, which obviously raises a question:\nHow Much Money Could LVT Raise? You might expect that as labor+capital become immensely more productive at creating wealth from land, land value becomes low relative to the size of the economy and LVT can\u0026rsquo;t raise much money. On the other hand, that would cause more and more value to leak into the land, so maybe land stays pretty sizeable? Let\u0026rsquo;s see! It turns out that if we estimate just the land rent, it would probably cover the entire US defense budget, or social security. That\u0026rsquo;s a lot!\nThere\u0026rsquo;s also the fact that a lot of welfare spending provides benefits which are soaked up by the land, which increases the amount of taxes that can be collected. Joseph Stigliz suggests that for pure (non-rival, non-excludable) public goods, the entire value is soaked up by the land and that therefore LVT can fund all improvements forever.\nWouldn\u0026rsquo;t LVT Raise Rents? You might think that, but no! Traditional economics doesn\u0026rsquo;t even predict that this would happen, because the supply of land is constant, meaning that landowners can\u0026rsquo;t produce less land in response to price signals. To illustrate: let\u0026rsquo;s say I\u0026rsquo;m a landlord with a bunch of apartments. I\u0026rsquo;m currently charging the maximum amount of rent that I can get away with charging; I know this because I actually don\u0026rsquo;t have full utilization of my units (some low percentage aren\u0026rsquo;t being rented out because they\u0026rsquo;re too expensive and tenants prefer to live elsewhere). Now an LVT is instituted and my costs go up. Can I pass those costs on to new tenants by raising rents? Probably not! I was already charging as much as I could, and tenants still have all the same alternatives they had before. If I raise rents, tenants will rent from someone else instead and my utilization rates will fall. Maybe if I collaborated with every landlord in some large area we could illegally collude in raising our prices, but this is pretty unlikely to happen in practice, I hope.\nThere\u0026rsquo;s also a more Georgist way to look at this: as a landlord, I\u0026rsquo;m already charging the margin of production as rent. But LVT doesn\u0026rsquo;t change the margin of production - in fact, it maybe reduces it by freeing up land held by specultors! I can\u0026rsquo;t charge more, or people will exercise their alternatives, so I\u0026rsquo;m forced to keep charging the same rent (or less, if the margin has decreased).\nHas Anyone Tried This? Yes! A few Nordic countries have LVTs, and the Danish government accidentally ran a cool experiment on them. And mostly they found that LVTs work more or less as Georgists claim they should.\nClosing Notes Whether you agree with the LVT or not, Georgism seems to have been impressively predictive of the dynamics it tries to deal with. One nice thing in favor of LVT is that it taxes something we actually want less of: profiting off of your ability to withold unearned, finite natural resources from people who would use them to benefit society. This is as opposed to a lot of other taxes, like VAT (taxes value, value is the best, and it\u0026rsquo;s also regressive which isn\u0026rsquo;t awesome), property tax (taxes improvements to land, only good if you want to slow down your society for some reason), or income tax (income is wonderful and I only wish I had some). "
+            }
+    
+        ,
+            {
+                "id": 1,
                 "href": "https://eigenposts.github.io/thoughts/mattress-guide/",
                 "title": "Mattress Guide",
                 "section": "thoughts",
@@ -14,7 +24,7 @@
     
         ,
             {
-                "id": 1,
+                "id": 2,
                 "href": "https://eigenposts.github.io/thoughts/nonstick-pans/",
                 "title": "Nonstick Pans",
                 "section": "thoughts",
@@ -24,7 +34,7 @@
     
         ,
             {
-                "id": 2,
+                "id": 3,
                 "href": "https://eigenposts.github.io/thoughts/the-education-one/",
                 "title": "The Education One",
                 "section": "thoughts",
@@ -34,7 +44,7 @@
     
         ,
             {
-                "id": 3,
+                "id": 4,
                 "href": "https://eigenposts.github.io/thoughts/pride-in-work/",
                 "title": "Pride in Work",
                 "section": "thoughts",
@@ -44,7 +54,7 @@
     
         ,
             {
-                "id": 4,
+                "id": 5,
                 "href": "https://eigenposts.github.io/thoughts/choline-supplementation/",
                 "title": "Choline Supplementation",
                 "section": "thoughts",
@@ -54,7 +64,7 @@
     
         ,
             {
-                "id": 5,
+                "id": 6,
                 "href": "https://eigenposts.github.io/thoughts/internet-survival-guide/",
                 "title": "Internet Survival Guide",
                 "section": "thoughts",
@@ -64,7 +74,7 @@
     
         ,
             {
-                "id": 6,
+                "id": 7,
                 "href": "https://eigenposts.github.io/thoughts/the-direct-path/",
                 "title": "The Direct Path: My User Experience",
                 "section": "thoughts",
@@ -74,7 +84,7 @@
     
         ,
             {
-                "id": 7,
+                "id": 8,
                 "href": "https://eigenposts.github.io/thoughts/selfish-individualism/",
                 "title": "Why You Should be a Selfish Individualist",
                 "section": "thoughts",
@@ -84,7 +94,7 @@
     
         ,
             {
-                "id": 8,
+                "id": 9,
                 "href": "https://eigenposts.github.io/thoughts/you-are-nature/",
                 "title": "You Are Nature",
                 "section": "thoughts",
@@ -94,7 +104,7 @@
     
         ,
             {
-                "id": 9,
+                "id": 10,
                 "href": "https://eigenposts.github.io/thoughts/arrested-development/",
                 "title": "Arrested Development",
                 "section": "thoughts",
@@ -104,7 +114,7 @@
     
         ,
             {
-                "id": 10,
+                "id": 11,
                 "href": "https://eigenposts.github.io/thoughts/desire/",
                 "title": "Desire",
                 "section": "thoughts",
@@ -114,7 +124,7 @@
     
         ,
             {
-                "id": 11,
+                "id": 12,
                 "href": "https://eigenposts.github.io/thoughts/air-quality/",
                 "title": "Buy an Air Filter",
                 "section": "thoughts",
@@ -124,7 +134,7 @@
     
         ,
             {
-                "id": 12,
+                "id": 13,
                 "href": "https://eigenposts.github.io/thoughts/responsiveness-authenticity/",
                 "title": "Responsiveness and Authenticity",
                 "section": "thoughts",
@@ -134,7 +144,7 @@
     
         ,
             {
-                "id": 13,
+                "id": 14,
                 "href": "https://eigenposts.github.io/thoughts/contra-hoel-vegetarianism/",
                 "title": "Contra Erik Hoel on Vegetarianism",
                 "section": "thoughts",
@@ -144,7 +154,7 @@
     
         ,
             {
-                "id": 14,
+                "id": 15,
                 "href": "https://eigenposts.github.io/thoughts/if-you-saw-a-ghost/",
                 "title": "If You Saw a Ghost",
                 "section": "thoughts",
@@ -154,7 +164,7 @@
     
         ,
             {
-                "id": 15,
+                "id": 16,
                 "href": "https://eigenposts.github.io/thoughts/beginners-mind/",
                 "title": "Reinventing Beginner's Mind",
                 "section": "thoughts",
@@ -164,7 +174,7 @@
     
         ,
             {
-                "id": 16,
+                "id": 17,
                 "href": "https://eigenposts.github.io/about/",
                 "title": "About",
                 "section": "",
@@ -174,7 +184,7 @@
     
         ,
             {
-                "id": 17,
+                "id": 18,
                 "href": "https://eigenposts.github.io/thoughts/aristotle-anime/",
                 "title": "Aristotle, Anime, and the Meaning of Friendship",
                 "section": "thoughts",
