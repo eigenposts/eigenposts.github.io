@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://eigenposts.github.io/thoughts/outlive/</loc>
+    <lastmod>2023-08-05T11:11:50-04:00</lastmod>
+  </url><url>
     <loc>https://eigenposts.github.io/</loc>
-    <lastmod>2023-05-08T14:59:44-04:00</lastmod>
+    <lastmod>2023-08-05T11:11:50-04:00</lastmod>
+  </url><url>
+    <loc>https://eigenposts.github.io/thoughts/</loc>
+    <lastmod>2023-08-05T11:11:50-04:00</lastmod>
   </url><url>
     <loc>https://eigenposts.github.io/reifying-ideas/</loc>
     <lastmod>2023-05-08T14:59:44-04:00</lastmod>
   </url><url>
     <loc>https://eigenposts.github.io/thoughts/reifying-ideas/</loc>
-    <lastmod>2023-05-08T14:59:44-04:00</lastmod>
-  </url><url>
-    <loc>https://eigenposts.github.io/thoughts/</loc>
     <lastmod>2023-05-08T14:59:44-04:00</lastmod>
   </url><url>
     <loc>https://eigenposts.github.io/thoughts/ethical-agents/</loc>
