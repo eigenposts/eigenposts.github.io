@@ -5,6 +5,16 @@
         
             {
                 "id": 0,
+                "href": "https://eigenposts.github.io/thoughts/negotiation-genius/",
+                "title": "Book Review - Negotiation Genius",
+                "section": "thoughts",
+                "date" : "2023.11.29",
+                "body": "Takeaways from Negotiation Genius by Malhotra and Bazerman (2007).\nHaggling vs Negotiation What we think of as negotiation can be broken into two categories: negotiation and haggling. Haggling is what you do with a street vendor in India to determine how much you will pay for an item, and it\u0026rsquo;s mostly characterized by being zero-sum: the product or service being provided is set, and you are attempting to pay the minimum (or extract the maximum) price.\nFrom a game-theoretic point of view, haggling is quite easy to model. For the sake of example, let\u0026rsquo;s say I\u0026rsquo;m trying to buy from that Indian street vendor. Both the vendor and I privately have some reservation value (also known as a break-even value or a walk-away value). I will not pay more than my reservation value; the vendor will not accept less than his. My goal is to pay exactly the vendor\u0026rsquo;s reservation value, while the vendor\u0026rsquo;s goal is to extract exactly mine. Therefore, we play an iterated game called \u0026ldquo;haggling\u0026rdquo; in which we attempt to bluff our true reservation values while finding out as much as we can about the other person\u0026rsquo;s. Or so it goes in theory. In practice, bargaining is often about frame control, with each side trying to deploy or neutralize narrative elements justifying changes in the price.\nHaggling is at most two-dimensional. You can add a dimension by offering to buy more at a lower unit price (I hesitate to even call this a full extra dimension) and in some cultures you can get away with continuing to negotiate on the items being purchased after the price has been set by saying things like \u0026ldquo;OK, I\u0026rsquo;m paying more than I want for these, how about you throw in this too?\u0026rdquo;\nNegotiation is distinct from haggling mostly in that it\u0026rsquo;s higher-dimensional and often done with a durable relationship in mind (haggling tends to be one-off). But this is actually a change in kind, not just in extent! For example, outright lying is often an accepted part of haggling (of course, this varies culturally), but very unwise in negotiation since it might result in a contract being voided, a relationship terminated, and even a reduction in your ability to do business in a market/sector in the future. But maybe the biggest difference between negotiation and haggling is that moves in a negotiation often have the potential to be positive-sum (this is only sometimes true in haggling when you make the move of offering to buy more for a lower unit price).\nNegotiation More Broadly Defined more broadly, negotiation doesn\u0026rsquo;t have to be a thing that only happens when two people explicitly agree to start negotiating. The authors tell a story of breaking up a bar fight:\nA few years ago, Deepak was shooting pool at a bar with a friend and two strangers. Suddenly, a group of about eight college students stormed into the room. They threw a pool stick onto the table, disrupting the game, and started to scream and curse. Needless to say, Deepak and his friend were taken aback. The two strangers who were playing with them immediately charged at the leader of the gang of students. In a matter of seconds, the friendly game of eight ball had become a shoving match. A fight was about to break out—and it was not at all clear why.\nTrying to stop the fight, Deepak and his friend wedged themselves between the two main combatants. It soon became obvious that the college students were upset because they believed that, moments earlier, someone at Deepak’s table had disrupted their game in the adjacent room. Deepak knew this was not true, but the accusation only fueled the rage on both sides. Deepak and his friend wanted to clear up the misunderstanding, but the situation was getting more physical by the moment. It would have been quite easy for Deepak and his friend to simply walk away—by now, the fight was entirely between the college students and the two strangers—but that did not seem like the right thing to do.\nOnce it became clear that the provocateurs were unwilling to consider the situation a misunderstanding, Deepak tried a different approach. “Okay,” he said to the leader of the college students. “We understand that you think someone ‘messed with you.’ But what do you think needs to happen now to avoid a fight?”\nThe leader looked at Deepak just long enough to answer. “I don’t know, but you guys messed up our game, so it’s a bit late to apologize,” he said before rejoining the fray.\nDeepak decided to try again: “Okay, but now you’ve messed up our game as well—so aren’t we even?”\n“No, we’re not even,” the student shouted. “You started it!”\n“I see. Well, let’s say someone in this room did start something,” Deepak said. “Can you imagine something that could happen now that would make you prefer not to fight? What would that look like? What would you rather be doing?”\nThe leader was in disbelief, but took a moment to consider the question. “Well, I’d rather be playing pool,” he answered, “but we’re going to have to start a whole new game.”\n“And how much will that cost?” asked Deepak.\n“One dollar,” the student responded.\nDeepak took a dollar bill out of his wallet and handed it to the leader. “How about it? Your next game is on me.”\nThe leader smiled as he slowly reached for the dollar. “You know, that’s very cool,” he said. “That’s really very nice of you.” He spent the next few minutes calming down his friends, and then escorted them out of the room. The fight was avoided, no blood was spilled, and no bones were broken. All it took was one dollar.\nThis is both a very real negotiation and a very interesting way of dealing with conflict in the modern world. Once upon a time, transactions like this were common (see David Graeber\u0026rsquo;s excellent book Debt: The First 5000 Years for some cool examples - some of the most relevant ones come from medieval Ireland, where an incredibly complex legal system established the monetary value of various blows to a person\u0026rsquo;s pride). Negotiations of this sort, where an \u0026ldquo;honor price\u0026rdquo; is established more or less explicitly, have admittedly gone out of fashion, but almost certainly produced surplus value in this case.\nIf I were to try to sum up the \u0026ldquo;negotiator worldview\u0026rdquo; I\u0026rsquo;m circling here, it would be a perspective of constantly looking for opportunities to produce and claim surplus value through cooperation with others.\nNegotiation Tactics Negotiation Genius deals mostly with tactics of negotiation. You won\u0026rsquo;t find much on haggling (which is its own art form) here.\nThe Algorithm Negotiation Genius offers an algorithm to prepare for a negotiation:\nFigure out your BATNA and RV. BATNA is \u0026ldquo;best alternative to a negotiated agreement.\u0026rdquo; RV is reservation value, or the price at which you\u0026rsquo;re indifferent about the deal. Your RV may not be the same as your BATNA if, for example, you think you can actually do better than your current BATNA. Create a scoring system based on all the issues you care about. This is important because some issues may be qualitatively different. If you\u0026rsquo;re negotiating for a job, how important is salary vs bonus vs health benefits vs vacation time vs remote work? You want to be able to systematically trade these things off against each other on the fly during the negotiation. Figure out your opponent\u0026rsquo;s BATNA, try to estimate their RV. Find the ZOPA. ZOPA is \u0026ldquo;zone of possible agreement\u0026rdquo; - it\u0026rsquo;s the region between your RV and your opponent\u0026rsquo;s. The Tactics On whether to make the first offer: the advantage of making the first offer is that it serves as an anchor, which apparently is one of the behavioral econ effects that actually does replicate. The disadvantage is that it reveals your model of your opponent. Because you need to make an offer you can justify, your opponent can always ask you how you arrived at your number. If your research on your opponent\u0026rsquo;s RV was correct, your first offer can keep the entire ZOPA in play while still being justifiable, anchoring your opponent high. If your research was incorrect, you may have just offered your opponent an excellent deal - or an insultingly bad one.\nInvestigative negotiation: one of the key points of this book is that negotiation is all about your opponent. The point of the negotiation for you is to learn as much as you can about what your opponent wants, what their pain points are, and how they\u0026rsquo;re thinking of this deal. You often switch between trying to sound as informed as possible (disincentivizing them from lying to you) and asking genuine questions to try to understand where your opponent is coming from.\nContingency contracts: I love this tactic. Oftentimes, negotiations center around predictions of the future. Will this car be reliable? Will this real estate be used residentially or be rezoned as commercial? What\u0026rsquo;s the probability this new drug will come to market by 2024? Both participants in the negotiation are incentivized to predict in opposite directions in order to claim more of the available value. Contingency contracts free you from the issues of prediction: you just add a clause to your contract specifying that if the drug does make it to market in 2024, then the buyer has to pay more to the seller at that time. If you think your opponent\u0026rsquo;s predictions are much worse than yours, you can make this a huge bet.\nOn closing a deal: this isn\u0026rsquo;t novel, but if you express that you\u0026rsquo;re very happy with a deal to the person you just made it with, they\u0026rsquo;ll realize that they could have done better and paradoxically be unhappy (even though you may have been trying to be polite). Take time to think their excellent offer over.\nLogrolling: Logrolling is a term which generally refers to any quid pro quo, but is used in the book to refer to a positive-sum move in a negotiation in which each side makes concessions in areas which are relatively less important to them than they are to their opponent. For instance, if I can only manufacture 100k components per year and have no desire to expand, and you want to buy all of the components I can make, having an exclusive contract doesn\u0026rsquo;t matter much to me - but it may matter a great deal to you. So we can agree to a higher unit cost (important to me) in exchange for an exclusive contract (important to you).\nOn negotiating multiple issues: there\u0026rsquo;s a temptation to reduce cognitive load by discussing issues one at a time, and to set aside certain issues as irrelevant to the current negotiation/contract. Every time you do either of these things, you reduce your opportunities for logrolling.\nNegotiating with friends and family: oftentimes, we are tempted to compromise on every issue when we negotiate with our friends and family, because this protects our reputation as selfless and decent people. But compromising on every issue eliminates opportunities to create value through logrolling! You can have more satisfying relationships by more explicitly trading off based on priorities.\nPost-settlement settlements (PSS): sometimes you can create value by first signing a deal, then proposing to your opponent that you try to create additional value through modifications to the deal. This can work for a number of reasons: it may be easier to reveal certain information now that there\u0026rsquo;s a signed contract in place, and both parties can be more confident that their goals are aligned during the PSS than they were during the initial negotiation\nDon\u0026rsquo;t assume, notice that you are confused: sometimes a party will believe that they can only protect a certain interest by insisting on a particular demand. This will often lead them to act against their interests! If I can only manufacture 100k components a year, and you want to pay me a little more in exchange for an exclusivity clause, and I reject the clause categorically, you should be confused. You might assume that I want to expand my business and sell to your competitor later, but I might have an agreement with my brother to sell him 50 components a year for his lawn mower repair business. I\u0026rsquo;d agree to a slightly modified exclusivity agreement that provided for a small number of components I could sell to my brother.\nFailing a negotiation: a negotiation fails when you can\u0026rsquo;t reach an agreement. Since you presumably entered the negotiation imagining that you could reach an agreement, a negotiation should never end with a \u0026ldquo;no.\u0026rdquo; You should always either get a yes or an explanation as to why not.\nSharing information: in order to logroll successfully, you need to share information about the ordinal relative importance of various issues (\u0026ldquo;x is more important to me than y\u0026rdquo;). But you should avoid sharing information about the absolute importance of those issues, and maybe even the extent of relative importance. If you reveal that an issue is actually unimportant to you, your opponent will learn that they can claim value on that issue without conceding very much in exchange.\nDisaggregate their gains, aggregate their losses: people are more likely to be satisfied with a concession broken into several smaller concessions, and will likely be less dissatisfied if you make a comprehensive concession demand rather than several smaller ones.\nDoor in the face, foot in the door: if you need to make a demand seem reasonable, you might make a fairly large demand, then back off towards what you actually want (door in the face). If you want people to feel committed to your program of action, you can make a relatively small request, then escalate your ask days or weeks later (foot in the door).\nRefuse to reveal your RV: sometimes, people who either don\u0026rsquo;t know much about negotiation or think you don\u0026rsquo;t know much about negotiation will just ask you your reservation value. \u0026ldquo;What\u0026rsquo;s the lowest price you will accept for this?\u0026rdquo;\nSince flat-out refusing to answer can be a bit awkward (though totally reasonable!), the authors suggest you respond with a joke: \u0026ldquo;I think you already know the answer—it happens to be the most you are willing to pay for it!\u0026rdquo;\nOvercoming a weak position: if you think you have a weak BATNA, first try not to reveal this. One strategy is, if possible, to keep focus on your opponent\u0026rsquo;s BATNA - they may make the mistake of not realizing that your position is even worse. Failing this, make ethical attempts to make your position look good. For instance, if you only have one job offer, you can emphasize that you have other interviews coming up, or that you only just sent out a dozen applications and expect to hear back soon. If you\u0026rsquo;re in a position where the thing you\u0026rsquo;re selling is a commodity, try to find a way to break out of that position by focusing on your distinct value proposition (DVP). Finally, in smaller negotiations you can always simply ask the other party to help you out. This can work surprisingly well in situations like job negotiations, where the long-term relationship is very important relative to the amounts of money involved.\nConsider your entire negotiation portfolio: consider a situation like this: my widget company now faces competition from cheap Chinese widgets, which are being sold at a lower price. If I match the Chinese price, I will lose half of my profits, but still make money. In any particular negotiation, then, it makes sense for me to match their price. But what if I discover that I only stand to lose about 25% of my customers by not matching? I can actually make more money by simply allowing some of my negotiations to fail!\nWhen not to negotiate: negotiation is sometimes inappropriate because there are things that cannot be negotiated. Social status, loyalty, and in-group belonging cannot be negotiated. Actual adherence to the terms or spirit of an agreement cannot be negotiated. This means that a negotiation in which one party is asymmetrically more powerful are unlikely to be respected later, unless that party also has the means of coercion. Also, there are times when negotiation is impossible. When either party has nothing to offer, there can be no negotiation.\nBusiness majors dumb lol Consider the following scenario:\nTwo companies, A and B, are the leading players in their industry. Company C, which falls in the next tier in the same industry, is worth $1 billion as a stand-alone company, and its management has announced that it would be interested in being acquired at a favorable price. Analysts have identified A and B as the obvious bidders, since the acquisition of C by either A or B would make either company the dominant player in the industry. Both A and B have analyzed the possible acquisition of C and both have concluded that C would be worth $1.2 billion if managed by A or B. This means that if A or B could acquire C for under $1.2 billion, it would be a profitable acquisition, but anything above $1.2 billion would create a net loss and would lead to a drop in the acquirer’s stock price. However, if A were to acquire C, B would be at a catastrophic disadvantage and would lose $0.5 billion. Similarly, if B were to acquire C, A would also lose $0.5 billion. Finally, if either A or B makes an offer for C, the other company will learn of the offer. So, as the CEO of Company A, what should you do? Specifically, your response should be formatted as a bid on Company C, between $0 (equivalent to no offer) and $1.7M.\nYou, as someone who likely is not an MBA, might notice that the equilibrium solution here is that one company loses $0.5 billion on an acquisition of company C and the other company loses $0.5 billion in market share. Once the bidding process is initiated, each player will try to save themselves money by making a slightly higher bid until this equilibrium is reached. So the solution is to not initiate the bidding process.\nBut when they were given the opportunity to play this scenario as an iterated game (getting to see how their bids played out after each trial), and replaying the game 20 times, \u0026ldquo;only five out of seventy-two participants from a leading MBA program learned to make a bid of zero over the course of the trials. In more recent research, these errors were shown to persist even after one hundred trials.\u0026rdquo;\nOverall I quite liked this book! I was considering a few others that seemed to be much more psychological, and while those might be valuable too I\u0026rsquo;m glad I didn\u0026rsquo;t go with them. The book has lots of high quality examples taken from the real world, and does a good job of both motivating its lessons concretely while also contextualizing them in economic theory. It also does a good job of highlighting the odd push and pull of being cooperative enough to logroll and reveal information to the other party that will allow them to give you what you want while also being adversarial enough to maintain and exploit information asymmetries so as to position yourself favorably within the ZOPA. If you\u0026rsquo;re too cooperative, your opponent will capture your profits, but if you\u0026rsquo;re too adversarial you\u0026rsquo;ll miss opportunities to create mutual value.\nIf I could have added something, I would have gone for a section with tips for negotiating with friends and family. The authors point out that such negotiations are often systematically suboptimal due to perverse incentives, but the book doesn\u0026rsquo;t put much focus on the sort of informal negotiations people engage in on a day-to-day basis, so we aren\u0026rsquo;t left with any strategies to improve on them.\nMy least favorite chapter was the one on implicit bias. It seems to have been included purely to signal the political alignment of the authors, as they were apparently unable to find a single instance where they\u0026rsquo;re willing to even suggest that implicit bias may have affected a negotiation (the book is otherwise very good at giving examples). And there\u0026rsquo;s a good reason for this: science generally has been unable to find examples of implicit bias producing real-world outcomes. A plausible explanation for this is that implicit bias is really something more like a learned concept pairing. We often see certain concepts paired in the world, and we learn those pairings regardless of our attitude towards them. For instance, if a die-hard Trump fan took an IAT for the word \u0026ldquo;fascist\u0026rdquo; and various presidential candidates, I would expect them to match \u0026ldquo;fascist\u0026rdquo; to Trump faster and \u0026lsquo;display an implicit anti-Trump bias\u0026rsquo; - even though they are in real life unreasonably biased towards Trump - because \u0026ldquo;fascist\u0026rdquo; is an insult reserved for the left to use against the right, just like \u0026ldquo;snowflake\u0026rdquo; and \u0026ldquo;libtard\u0026rdquo; are reserved for the right to use against the left. So I skimmed most of the chapter, no big loss. I\u0026rsquo;ll also note in the interest of fairness that this book was written in 2007 and a lot of the challenges to implicit bias have arisen in the last 4-5 years (I think).\n"
+            }
+    
+        ,
+            {
+                "id": 1,
                 "href": "https://eigenposts.github.io/thoughts/listen-how-children-learn/",
                 "title": "Book Review(s): Listen \u0026 How Children Learn",
                 "section": "thoughts",
@@ -14,7 +24,7 @@
     
         ,
             {
-                "id": 1,
+                "id": 2,
                 "href": "https://eigenposts.github.io/thoughts/neurological/",
                 "title": "Maybe it's Neurological",
                 "section": "thoughts",
@@ -24,7 +34,7 @@
     
         ,
             {
-                "id": 2,
+                "id": 3,
                 "href": "https://eigenposts.github.io/thoughts/outlive/",
                 "title": "Book Review: Outlive",
                 "section": "thoughts",
@@ -34,7 +44,7 @@
     
         ,
             {
-                "id": 3,
+                "id": 4,
                 "href": "https://eigenposts.github.io/reifying-ideas/",
                 "title": "Reifying Ideas",
                 "section": "",
@@ -44,7 +54,7 @@
     
         ,
             {
-                "id": 4,
+                "id": 5,
                 "href": "https://eigenposts.github.io/thoughts/reifying-ideas/",
                 "title": "Reifying Ideas",
                 "section": "thoughts",
@@ -54,7 +64,7 @@
     
         ,
             {
-                "id": 5,
+                "id": 6,
                 "href": "https://eigenposts.github.io/thoughts/ethical-agents/",
                 "title": "Most People Aren't Ethical Agents",
                 "section": "thoughts",
@@ -64,7 +74,7 @@
     
         ,
             {
-                "id": 6,
+                "id": 7,
                 "href": "https://eigenposts.github.io/thoughts/penis-theft/",
                 "title": "Book Review: The Geography of Madness",
                 "section": "thoughts",
@@ -74,7 +84,7 @@
     
         ,
             {
-                "id": 7,
+                "id": 8,
                 "href": "https://eigenposts.github.io/thoughts/georgism/",
                 "title": "Georgism",
                 "section": "thoughts",
@@ -84,7 +94,7 @@
     
         ,
             {
-                "id": 8,
+                "id": 9,
                 "href": "https://eigenposts.github.io/thoughts/mattress-guide/",
                 "title": "Mattress Guide",
                 "section": "thoughts",
@@ -94,7 +104,7 @@
     
         ,
             {
-                "id": 9,
+                "id": 10,
                 "href": "https://eigenposts.github.io/thoughts/nonstick-pans/",
                 "title": "Nonstick Pans",
                 "section": "thoughts",
@@ -104,7 +114,7 @@
     
         ,
             {
-                "id": 10,
+                "id": 11,
                 "href": "https://eigenposts.github.io/thoughts/the-education-one/",
                 "title": "The Education One",
                 "section": "thoughts",
@@ -114,7 +124,7 @@
     
         ,
             {
-                "id": 11,
+                "id": 12,
                 "href": "https://eigenposts.github.io/thoughts/pride-in-work/",
                 "title": "Pride in Work",
                 "section": "thoughts",
@@ -124,7 +134,7 @@
     
         ,
             {
-                "id": 12,
+                "id": 13,
                 "href": "https://eigenposts.github.io/thoughts/choline-supplementation/",
                 "title": "Choline Supplementation",
                 "section": "thoughts",
@@ -134,7 +144,7 @@
     
         ,
             {
-                "id": 13,
+                "id": 14,
                 "href": "https://eigenposts.github.io/thoughts/internet-survival-guide/",
                 "title": "Internet Survival Guide",
                 "section": "thoughts",
@@ -144,7 +154,7 @@
     
         ,
             {
-                "id": 14,
+                "id": 15,
                 "href": "https://eigenposts.github.io/thoughts/the-direct-path/",
                 "title": "The Direct Path: My User Experience",
                 "section": "thoughts",
@@ -154,7 +164,7 @@
     
         ,
             {
-                "id": 15,
+                "id": 16,
                 "href": "https://eigenposts.github.io/thoughts/selfish-individualism/",
                 "title": "Why You Should be a Selfish Individualist",
                 "section": "thoughts",
@@ -164,7 +174,7 @@
     
         ,
             {
-                "id": 16,
+                "id": 17,
                 "href": "https://eigenposts.github.io/thoughts/you-are-nature/",
                 "title": "You Are Nature",
                 "section": "thoughts",
@@ -174,7 +184,7 @@
     
         ,
             {
-                "id": 17,
+                "id": 18,
                 "href": "https://eigenposts.github.io/thoughts/arrested-development/",
                 "title": "Arrested Development",
                 "section": "thoughts",
@@ -184,7 +194,7 @@
     
         ,
             {
-                "id": 18,
+                "id": 19,
                 "href": "https://eigenposts.github.io/thoughts/desire/",
                 "title": "Desire",
                 "section": "thoughts",
@@ -194,7 +204,7 @@
     
         ,
             {
-                "id": 19,
+                "id": 20,
                 "href": "https://eigenposts.github.io/thoughts/air-quality/",
                 "title": "Buy an Air Filter",
                 "section": "thoughts",
@@ -204,7 +214,7 @@
     
         ,
             {
-                "id": 20,
+                "id": 21,
                 "href": "https://eigenposts.github.io/thoughts/responsiveness-authenticity/",
                 "title": "Responsiveness and Authenticity",
                 "section": "thoughts",
@@ -214,7 +224,7 @@
     
         ,
             {
-                "id": 21,
+                "id": 22,
                 "href": "https://eigenposts.github.io/thoughts/contra-hoel-vegetarianism/",
                 "title": "Contra Erik Hoel on Vegetarianism",
                 "section": "thoughts",
@@ -224,7 +234,7 @@
     
         ,
             {
-                "id": 22,
+                "id": 23,
                 "href": "https://eigenposts.github.io/thoughts/if-you-saw-a-ghost/",
                 "title": "If You Saw a Ghost",
                 "section": "thoughts",
@@ -234,7 +244,7 @@
     
         ,
             {
-                "id": 23,
+                "id": 24,
                 "href": "https://eigenposts.github.io/thoughts/beginners-mind/",
                 "title": "Reinventing Beginner's Mind",
                 "section": "thoughts",
@@ -244,7 +254,7 @@
     
         ,
             {
-                "id": 24,
+                "id": 25,
                 "href": "https://eigenposts.github.io/about/",
                 "title": "About",
                 "section": "",
@@ -254,7 +264,7 @@
     
         ,
             {
-                "id": 25,
+                "id": 26,
                 "href": "https://eigenposts.github.io/thoughts/aristotle-anime/",
                 "title": "Aristotle, Anime, and the Meaning of Friendship",
                 "section": "thoughts",
