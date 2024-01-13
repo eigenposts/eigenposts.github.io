@@ -5,6 +5,16 @@
         
             {
                 "id": 0,
+                "href": "https://eigenposts.github.io/thoughts/car-buying-notes/",
+                "title": "Car Buying Notes",
+                "section": "thoughts",
+                "date" : "2024.01.12",
+                "body": "Things I wish I\u0026rsquo;d known about buying a new car\nI recently got a new car! On the whole, I\u0026rsquo;m absolutely delighted with it, but there are some tips I wish I\u0026rsquo;d read about the car buying process which I\u0026rsquo;d like to briefly share.\nAs you research cars, remember that a certain model might make for a good new car but a bad used car, or vice versa! As an example, I got a 2024 Subaru Forester. The Forester has been a fairly unreliable car for a long time, but Subaru started to figure out reliability in 2022. Most used Foresters are a bad deal as they depreciate unusually quickly, but the new ones are quite good! Conversely, the Toyota RAV4 has been a good car for a long time, but the 2024 model is significantly worse. A used RAV4 might be a good deal; a new one is not. Moving on to negotiation: Owning a dealership is one of the most common ways to be a multi-millionaire (or, more precisely, a top 0.1% earner) for a good reason. There is massive information asymmetry between you (the buyer) and the dealer. The dealer knows how much they actually paid for the car. They will, of course, conceal this number from you. Sometimes they\u0026rsquo;ll tell you the \u0026ldquo;invoice price,\u0026rdquo; which is what they paid for the car before the rebates they get from the manufacturer, to throw you off (you might more charitably imagine that they\u0026rsquo;re telling you this to give you a sense of their cost structure - you can make your own inferences about the survival rate of such cooperative dealerships, and the implied probability that you\u0026rsquo;re sitting in one of them). At the same time, the dealer knows how much people like you typically end up paying for cars; they can make a very good guess at your reservation value. The best way to approach this situation is to avoid negotiating if possible: If the car you\u0026rsquo;re buying is a high-volume commodity, you can price shop, effectively bypassing the negotiation process. Honda vehicles are great for this because each model has a small number of identical configurations, so cars can be directly compared on price. Contrastingly, most cars come with a stunning variety of configurations, making it quite difficult to find identical vehicles to compare. If you want a car that\u0026rsquo;s harder to price shop, you can still (privately) identify the features that are important to you and find 3-4 acceptable cars at different dealerships near you. Call the first dealer and tell them you don\u0026rsquo;t want to negotiate, just give me your best price. Refuse the offer. Call the next dealer and tell them the same thing. If they give you a worse price, tell them you\u0026rsquo;ve had a better offer and ask them to beat it. Refuse their offer regardless. Call the final dealer (ideally, this one will have the build you want the most) and repeat the process one more time, accepting their offer if it seems reasonable. This process will probably get you a price 90% as good as an excellent negotiator could have gotten, for perhaps 10% of the effort. If you must negotiate, try to get the dealer to make multiple moves by making non-moves. You can just say things like \u0026ldquo;hm, I just really can\u0026rsquo;t afford a price that high\u0026rdquo; without making an actual counteroffer. This is a frustrating thing to do, but you can make it work for you if you play an inexperienced negotiator. Related to the last point: if you must negotiate, don\u0026rsquo;t do so in person. For one thing, in-person negotiation makes it harder for you, the less knowledgeable party, to research statements and offers made by the dealer to know if they are accurate/fair. Additionally, showing up to negotiate in person tells the dealer that you\u0026rsquo;re fairly committed to buying their car, because you\u0026rsquo;ve invested time in coming to negotiate with them. They will mentally make upwards adjustments to their estimate of your reservation value accordingly. Also related: as a very slight over-generalization, all car salesmen will lie to you, especially during the negotiation process. I liked (and still like) my salesmen. They seemed self-consciously honest and straightforward to me, and I\u0026rsquo;d be willing to bet that\u0026rsquo;s how they perceive themselves. But they lied (including lies of omission, strongly implying false statements, and, I think, full-out lies) at least four times that I remember during the negotiation. The negotiation process starts when you walk in the door and ends after you either buy the car or commit to not buying it. To this point, you can express enthusiasm about the car in general, but try to avoid expressing enthusiasm about any nonstandard feature. If a dealer notices you really like nonstandard feature x, they will offer to sell you a version of the car without x for less money while you\u0026rsquo;re negotiating on price. This is a way for the dealer to make a non-move - they know you won\u0026rsquo;t actually accept the offer, but they get to look like they\u0026rsquo;re making an effort to move. Beware false asymptotes. Dealers almost never asymptote their offering price at their actual reservation value. If you have some extra item you might want to put on the table, like a trade-in, one strategy might be to wait until the dealer asymptotes. Leave the dealership, wait a day or two, and then bring up the trade-in. They might become more willing to give you a little extra money for the trade-in as an alternative way of negotiating the price. Try being mildly irrational. It\u0026rsquo;s a tired trick for car salesmen to give you a high price, wait for the inevitable counteroffer, tell you they have to talk to their boss, and then go into the back room and watch TikTok for 5 minutes. Then they come out and say, \u0026ldquo;my boss was really mad at me, but I convinced him to come down to [some marginally lower price].\u0026rdquo; Maybe go into the dealership to negotiate, wait for the salesman to pull this, and then leave while they\u0026rsquo;re gone and refuse to negotiate further in person. You don\u0026rsquo;t have to be rude about this; just tell them you don\u0026rsquo;t appreciate sitting around waiting and you\u0026rsquo;d prefer to negotiate via text from now on. Ideally you tell them this over text after you\u0026rsquo;ve left. Especially if the car dealership is a reasonable distance from your house, this will create the impression that you\u0026rsquo;re an emotional person willing to do irrational things, like walk away from a car that you like even though you\u0026rsquo;ve invested a fair bit of time in buying it already. I imagine this trick works even better if you can get a confederate to play the irrational scapegoat. Then you get to reverse the trick - \u0026ldquo;I\u0026rsquo;d love to come back in, but Steve is really upset we had to wait around.\u0026rdquo; Based on my research, I\u0026rsquo;m fairly confident I got a very good deal on my car. However, I suspect I could have done even better if I\u0026rsquo;d known these things ahead of time. Hopefully my counterfactual loss is your gain!\n"
+            }
+    
+        ,
+            {
+                "id": 1,
                 "href": "https://eigenposts.github.io/thoughts/pua/",
                 "title": "On Pickup Artists",
                 "section": "thoughts",
@@ -14,7 +24,7 @@
     
         ,
             {
-                "id": 1,
+                "id": 2,
                 "href": "https://eigenposts.github.io/thoughts/negotiation-genius/",
                 "title": "Book Review - Negotiation Genius",
                 "section": "thoughts",
@@ -24,7 +34,7 @@
     
         ,
             {
-                "id": 2,
+                "id": 3,
                 "href": "https://eigenposts.github.io/thoughts/listen-how-children-learn/",
                 "title": "Book Review(s): Listen \u0026 How Children Learn",
                 "section": "thoughts",
@@ -34,7 +44,7 @@
     
         ,
             {
-                "id": 3,
+                "id": 4,
                 "href": "https://eigenposts.github.io/thoughts/neurological/",
                 "title": "Maybe it's Neurological",
                 "section": "thoughts",
@@ -44,7 +54,7 @@
     
         ,
             {
-                "id": 4,
+                "id": 5,
                 "href": "https://eigenposts.github.io/thoughts/outlive/",
                 "title": "Book Review: Outlive",
                 "section": "thoughts",
@@ -54,7 +64,7 @@
     
         ,
             {
-                "id": 5,
+                "id": 6,
                 "href": "https://eigenposts.github.io/reifying-ideas/",
                 "title": "Reifying Ideas",
                 "section": "",
@@ -64,7 +74,7 @@
     
         ,
             {
-                "id": 6,
+                "id": 7,
                 "href": "https://eigenposts.github.io/thoughts/reifying-ideas/",
                 "title": "Reifying Ideas",
                 "section": "thoughts",
@@ -74,7 +84,7 @@
     
         ,
             {
-                "id": 7,
+                "id": 8,
                 "href": "https://eigenposts.github.io/thoughts/ethical-agents/",
                 "title": "Most People Aren't Ethical Agents",
                 "section": "thoughts",
@@ -84,7 +94,7 @@
     
         ,
             {
-                "id": 8,
+                "id": 9,
                 "href": "https://eigenposts.github.io/thoughts/penis-theft/",
                 "title": "Book Review: The Geography of Madness",
                 "section": "thoughts",
@@ -94,7 +104,7 @@
     
         ,
             {
-                "id": 9,
+                "id": 10,
                 "href": "https://eigenposts.github.io/thoughts/georgism/",
                 "title": "Georgism",
                 "section": "thoughts",
@@ -104,7 +114,7 @@
     
         ,
             {
-                "id": 10,
+                "id": 11,
                 "href": "https://eigenposts.github.io/thoughts/mattress-guide/",
                 "title": "Mattress Guide",
                 "section": "thoughts",
@@ -114,7 +124,7 @@
     
         ,
             {
-                "id": 11,
+                "id": 12,
                 "href": "https://eigenposts.github.io/thoughts/nonstick-pans/",
                 "title": "Nonstick Pans",
                 "section": "thoughts",
@@ -124,7 +134,7 @@
     
         ,
             {
-                "id": 12,
+                "id": 13,
                 "href": "https://eigenposts.github.io/thoughts/the-education-one/",
                 "title": "The Education One",
                 "section": "thoughts",
@@ -134,7 +144,7 @@
     
         ,
             {
-                "id": 13,
+                "id": 14,
                 "href": "https://eigenposts.github.io/thoughts/pride-in-work/",
                 "title": "Pride in Work",
                 "section": "thoughts",
@@ -144,7 +154,7 @@
     
         ,
             {
-                "id": 14,
+                "id": 15,
                 "href": "https://eigenposts.github.io/thoughts/choline-supplementation/",
                 "title": "Choline Supplementation",
                 "section": "thoughts",
@@ -154,7 +164,7 @@
     
         ,
             {
-                "id": 15,
+                "id": 16,
                 "href": "https://eigenposts.github.io/thoughts/internet-survival-guide/",
                 "title": "Internet Survival Guide",
                 "section": "thoughts",
@@ -164,7 +174,7 @@
     
         ,
             {
-                "id": 16,
+                "id": 17,
                 "href": "https://eigenposts.github.io/thoughts/the-direct-path/",
                 "title": "The Direct Path: My User Experience",
                 "section": "thoughts",
@@ -174,7 +184,7 @@
     
         ,
             {
-                "id": 17,
+                "id": 18,
                 "href": "https://eigenposts.github.io/thoughts/selfish-individualism/",
                 "title": "Why You Should be a Selfish Individualist",
                 "section": "thoughts",
@@ -184,7 +194,7 @@
     
         ,
             {
-                "id": 18,
+                "id": 19,
                 "href": "https://eigenposts.github.io/thoughts/you-are-nature/",
                 "title": "You Are Nature",
                 "section": "thoughts",
@@ -194,7 +204,7 @@
     
         ,
             {
-                "id": 19,
+                "id": 20,
                 "href": "https://eigenposts.github.io/thoughts/arrested-development/",
                 "title": "Arrested Development",
                 "section": "thoughts",
@@ -204,7 +214,7 @@
     
         ,
             {
-                "id": 20,
+                "id": 21,
                 "href": "https://eigenposts.github.io/thoughts/desire/",
                 "title": "Desire",
                 "section": "thoughts",
@@ -214,7 +224,7 @@
     
         ,
             {
-                "id": 21,
+                "id": 22,
                 "href": "https://eigenposts.github.io/thoughts/air-quality/",
                 "title": "Buy an Air Filter",
                 "section": "thoughts",
@@ -224,7 +234,7 @@
     
         ,
             {
-                "id": 22,
+                "id": 23,
                 "href": "https://eigenposts.github.io/thoughts/responsiveness-authenticity/",
                 "title": "Responsiveness and Authenticity",
                 "section": "thoughts",
@@ -234,7 +244,7 @@
     
         ,
             {
-                "id": 23,
+                "id": 24,
                 "href": "https://eigenposts.github.io/thoughts/contra-hoel-vegetarianism/",
                 "title": "Contra Erik Hoel on Vegetarianism",
                 "section": "thoughts",
@@ -244,7 +254,7 @@
     
         ,
             {
-                "id": 24,
+                "id": 25,
                 "href": "https://eigenposts.github.io/thoughts/if-you-saw-a-ghost/",
                 "title": "If You Saw a Ghost",
                 "section": "thoughts",
@@ -254,7 +264,7 @@
     
         ,
             {
-                "id": 25,
+                "id": 26,
                 "href": "https://eigenposts.github.io/thoughts/beginners-mind/",
                 "title": "Reinventing Beginner's Mind",
                 "section": "thoughts",
@@ -264,7 +274,7 @@
     
         ,
             {
-                "id": 26,
+                "id": 27,
                 "href": "https://eigenposts.github.io/about/",
                 "title": "About",
                 "section": "",
@@ -274,7 +284,7 @@
     
         ,
             {
-                "id": 27,
+                "id": 28,
                 "href": "https://eigenposts.github.io/thoughts/aristotle-anime/",
                 "title": "Aristotle, Anime, and the Meaning of Friendship",
                 "section": "thoughts",
