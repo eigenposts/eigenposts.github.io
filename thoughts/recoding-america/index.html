@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+<title>Book Review: Recoding America</title>
+<meta name="description" 
+      content=""
+>
+
+  
+
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link
+  rel="alternate"
+  type="application/rss+xml"
+  href="https://eigenposts.github.io/index.xml"
+  title="Eigenposts"
+/>
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Book Review: Recoding America">
+  <meta name="twitter:description" content="Recoding America, by Jennifer Pahlka">
+
+
+
+<link rel="stylesheet" href="https://eigenposts.github.io/fontawesome/css/all.min.css" />
+
+
+
+
+<link
+  crossorigin="anonymous"
+  href="/css/styles.min.css"
+  integrity=""
+  rel="preload stylesheet"
+  as="style"
+/>
+
+
+
+
+<link
+  id="dark-mode-theme"
+  crossorigin="anonymous"
+  href="/css/dark.min.css"
+  integrity=""
+  rel="preload stylesheet"
+  as="style"
+/>
+
+
+<script>
+  var darkTheme = document.getElementById('dark-mode-theme')
+  var storedTheme = localStorage.getItem('dark-mode-storage')
+
+  if (storedTheme === 'dark') {
+    darkTheme.disabled = false
+  } else if (storedTheme === 'light') {
+    darkTheme.disabled = true
+  }
+</script>
+
+
+<script defer crossorigin="anonymous" src="/js/theme.js" integrity=""></script>
+
+
+<script defer crossorigin="anonymous" src="/js/instantpage.min.js" integrity=""></script><meta name="generator" content="Hugo 0.140.2">
+  </head>
+  <body>
+    
+  
+
+
+
+
+  <header>
+    <nav class="navbar">
+  <div class="nav">
+    
+      <a href="https://eigenposts.github.io/" class="nav-logo">
+        <img
+          src="https://eigenposts.github.io/images/profile.png"
+          width="50"
+          height="50"
+          alt="Logo"
+          style="border-radius: 25px;"
+        />
+      </a>
+    
+
+    <ul class="nav-links">
+      
+        
+          <li>
+            <a href="/about/" id="About"><b>About</b></a>
+          </li>
+        
+      
+        
+          <li>
+            <a href="/thoughts" id="Thoughts"><b>Thoughts</b></a>
+          </li>
+        
+      
+        
+          <li>
+            <a href="/archive" id="Archive"><b>Archive</b></a>
+          </li>
+        
+      
+        
+          <li>
+            <a href="/search" id="Search"
+              ><em class="fas fa-search fa-lg"></em
+            ></a>
+          </li>
+          
+      
+    </ul>
+  </div>
+</nav>
+
+    <div class="intro-header">
+      <div class="container">
+        <div class="thoughts-heading">
+          
+            <h1>
+              Book Review: Recoding America
+            </h1>
+          
+          
+        </div>
+      </div>
+    </div>
+  </header>
+  
+
+    
+  <div class="container" role="main">
+    <article class="article" class="blog-post">
+      
+  <p><em>Recoding America, by Jennifer Pahlka</em></p>
+<p>My job involves delivering advanced software to government sponsors, but if you had asked me what I thought of the government&rsquo;s ability to deploy technology at scale to solve national problems, I would have thought of healthcare.gov, or any of the numerous recent embarrassing congressional hearings in which policymakers reveal that they apparently learned all they know about the internet five minutes ago from a lovely elderly woman named Ruth, whose primary qualification is that her grandson showed her how to set up the email app on her phone last weekend. I would have told you that the government is radically underinvesting in technology and that they should be leaving technical problems to technical contractors, because they are clearly not able to build something as simple as a website properly. I would have told you that, before I read <em>Recoding America</em>.</p>
+<h2 id="investment-in-technology">Investment in Technology</h2>
+<p>Jennifer Pahlka worked for more than a decade in various organizations dedicated to improving government&rsquo;s ability to use technology, and in this book she shares her perspectives on the real problems and solutions in this area. I think maybe my favorite thing about the book was that it made me realize how vague my previous criticisms were. What does it mean to &lsquo;radically underinvest in technology?&rsquo; If Congress had passed a bill promising to spend an additional billion dollars on technology, would I have been happy about that? One of Pahlka&rsquo;s first points is that just spending more money is not enough; the current process of acquiring software and even of deciding what software to acquire is dramatically broken. In fact, one point she notes is that having a big budget up front is <em>harmful</em> to a project, because it will attract more stakeholders with conflicting agendas. Get enough stakeholders on a project up front and it becomes a black hole of money and effort - it will never produce anything useful because the highest levels of the organization will actively oppose useful software if it is not useful to them specifically.</p>
+<p>One reason for this is that people who go into government are not in it for money. Some are selfless public servants, some just want a steady job - and the rest want power. Power, in Washington, resides in policy making, not in implementation, so building things, and particularly building software, is low-status. Because it is culturally and socially low-status, it is also organizationally low-status; software teams are managed in a command-style approach where directions on what to build flow from the top down, but requests for clarification or good requirements cannot flow from the bottom up. This is a huge problem because requirements are often extremely vague, sometimes self-contradictory, and it&rsquo;s not clear what a final product that meets the requirements would even look like, much less what you can and can&rsquo;t do to build it.</p>
+<h2 id="government-tech-is-harder">Government Tech is Harder</h2>
+<p>At the same time, technical systems in government have metastasized to a point that would make a grizzled AWS veteran cry. New systems, Pahlka says, often have to be pitched as adding some key functionality rather than as replacements or phase-outs of existing systems. The result is that government databases are sort of like the C++ specification, except worse because they are also databases. In the same way that C++ is actually 85 different programming languages, each with a distinct way of managing memory, government &ldquo;databases&rdquo; are a Lovecraftian assemblage of dozens of underlying databases, managed under different jurisdictions and with different schemas, heroically maintained and occasionally even kept in sync by a 300-page Turing-complete Excel macro written by an extremely grumpy lady named Madge, who under different circumstances would have won a Turing award but who now can never be allowed to retire from her government spreadsheet job. I am joking, but here&rsquo;s a real quote from the book: &ldquo;The architecture diagram for just one benefit center at the VA was so complex that it was displayed on a wall twenty feet long and eight feet tall. Even at that size, many of the elements were printed in a font so small you had to be right up next to the wall to read them&hellip; We think that the technology that runs our government has been designed&hellip; In fact, it has merely accreted.&rdquo;</p>
+<p>Pahlka goes on to describe unemployment insurance employees working for the state of California who are considered beginners at operating their system because they have only spent 17 years learning the thousands of macros and dozens of databases involved in its operation. In a genuine attempt to remedy this problem, the state added two more databases. When COVID hit, the state again tried to help - by hiring hundreds of additional workers, none of whom could possibly be of any help because there is no system like this one anywhere else in the world, but who did slow down the work of the existing employees by asking them for help. Refusing these new employees, of course, was not an option.</p>
+<h2 id="leave-technical-problems-to-technical-contractors">Leave Technical Problems to Technical Contractors</h2>
+<p>So now we get to the second point I would have made before reading this book: what exactly does it mean to &rsquo;leave technical problems to technical contractors?&rsquo; Can you just ask Google to build the IRS a new website and walk away? Obviously not - Google doesn&rsquo;t have access to all the information it would need to build something like that. But the other problem is that you have to actually implement the law. As Pahlka notes, the tax code changed an average of <em>once a day</em> between 2001 and 2012, and it is more than 70,000 pages when printed out. This is the plain English version - operationalizing it and writing it as code would be absurdly difficult, and difficult in a way that is completely uninteresting to the kind of person who works at Google.</p>
+<h2 id="bullshit">Bullshit</h2>
+<p>There are lots of cases where you can save someone time by not asking them questions that don&rsquo;t apply to them (for example, you don&rsquo;t have to ask questions about their children on their tax forms if they don&rsquo;t have kids). But the government chooses not to do that because it&rsquo;s not equitable, in that people who fill out the paper versions of a form will have to deal with pointless bullshit, which means that everyone else must also deal with pointless bullshit.</p>
+<p>There are a number of other frustrating stories in the book: one where the government requires translated versions of a website to be completed in the first iteration, slowing things down for no reason, for no reason other than that they are upset and want to punish the tech people. In another instance, the author tells an official that the $600 million project she is about to bid out is likely to fail. The official responds, &ldquo;Do you think we don&rsquo;t know that? The last seven IT projects in this state have all failed.&rdquo; Another time, an official at the VA tells the author that the database she offered to fix no longer has a latency problem (VA workers who had to interact with this database had time to get coffee while waiting for the next page of someone&rsquo;s file to load). The author eventually finds out that he &ldquo;fixed&rdquo; the latency problem by ordering his subordinates not to report latency problems. Another time, the author successfully deploys a new system which makes applying for benefits at the VA much easier. Applications increase by a factor of 10. This creates a backlog at the VA, which looks bad, so they revert the changes to make it harder to apply again. One contractor describes how he deals with a pointless government requirement that a particular outdated technology be used in all projects: he adds a box to the system diagram in PowerPoint that says &ldquo;ESB&rdquo; on it, and everyone is happy.</p>
+<h2 id="fixes">Fixes</h2>
+<p>Pahlka&rsquo;s main recommendation is that the government needs to adopt an agile development approach. This would be more revolutionary than it sounds, because it would involve completely changing the acquisition process for software, and might ultimately require the government to develop internal software development capabilities. The reason for this is that the current acquisitions process is to put every requirement you can think of in an RFP and bid it out. There are two results: first, no one who is good at software development even submits a bid, because they know that you can&rsquo;t develop good software that way, and good software developers aren&rsquo;t interested in developing bad software. Second, whoever does win the bid is required to deliver whatever they contracted to deliver, which is generally either a bad idea or impossible. But if your software team can be in dialogue with whatever agency they&rsquo;re working for, and negotiate requirements and explain why they want to take certain approaches, you can get much better software.</p>
+<p>But sometimes you can&rsquo;t put out an RFP for &ldquo;an actually good product that will deliver on the following high-level objectives&rdquo; because that&rsquo;s not an acceptable form of corruption. So instead you have no option but to develop the software in-house, which allows you to avoid the contract entirely. This also means that your development team gets better at making working software in government each time they solve a problem, instead of basically paying to educate contractors.</p>
+<h2 id="redemption-arc">Redemption Arc</h2>
+<p>A few months ago, I renewed my passport. A friend had warned me of a tedious, months-long process that involved mailing my existing passport to Pennsylvania, but I was able to renew online. The website was modern and the experience was fairly streamlined. There were a few minor irritations (the website says that applications open at &ldquo;around midday ET&rdquo;, which actually means exactly 1 PM ET), but otherwise I was extremely pleasantly surprised. Most importantly, I got my passport within a week of ordering it. Also, the IRS finally released online tax filing on their website.</p>
+
+
+
+      
+
+      
+    </article>
+    
+    
+      
+
+    
+  </div>
+
+    <footer>
+  
+
+<div class="social-icons">
+  
+
+  
+</div>
+
+
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  
+  <div class="container">
+    <p class="credits copyright">
+      <a href="https://eigenposts.github.io/about"></a>
+      &nbsp;&copy;
+      2025
+      
+        &nbsp;/&nbsp;
+        <a href="https://eigenposts.github.io/">Eigenposts</a>
+      
+      &nbsp;&ndash;&nbsp;
+      <em class="fas fa-moon" id="dark-mode-toggle"></em>
+    </p>
+
+    
+  </div>
+</footer>
+
+  </body>
+</html>
